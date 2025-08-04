@@ -10,7 +10,7 @@
       "address": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
       "label": "Sample Whale 1",
       "addedAt": "2025-08-03T18:17:24.510Z",
-      "updatedAt": "2025-08-03T18:45:22.437Z"
+      "updatedAt": "2025-08-04T15:52:02.841Z"
     },
     {
       "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
@@ -22,7 +22,7 @@
       "address": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
       "label": "Sample Whale 2",
       "addedAt": "2025-08-03T18:20:59.633Z",
-      "updatedAt": "2025-08-03T18:45:22.439Z"
+      "updatedAt": "2025-08-04T15:52:02.843Z"
     },
     {
       "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
@@ -67,5 +67,5 @@
       "updatedAt": "2025-08-04T00:10:04.000Z"
     }
   ],
-  "lastUpdated": "2025-08-03T18:45:22.439Z"
+  "lastUpdated": "2025-08-04T15:52:02.843Z"
 }

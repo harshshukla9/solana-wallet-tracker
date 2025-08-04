@@ -7,7 +7,11 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "node --watch src/index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/unit/*.js",
+    "test:unit": "node tests/unit/*.js",
+    "test:integration": "node tests/integration/*.js",
+    "test:debug": "node tests/debug/*.js",
+    "test:all": "npm run test:unit && npm run test:integration"
   },
   "keywords": [
     "solana",
