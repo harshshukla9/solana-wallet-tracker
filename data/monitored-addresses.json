@@ -1,0 +1,71 @@
+{
+  "addresses": [
+    {
+      "address": "JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4",
+      "label": "Jupiter Aggregator Program",
+      "addedAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2025-08-03T17:46:08.860Z"
+    },
+    {
+      "address": "9WzDXwBbmkg8ZTbNMqUxvQRAyrZzDsGYdLVL9zYtAWWM",
+      "label": "Sample Whale 1",
+      "addedAt": "2025-08-03T18:17:24.510Z",
+      "updatedAt": "2025-08-03T18:45:22.437Z"
+    },
+    {
+      "address": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "label": "USDC Token",
+      "addedAt": "2025-08-03T18:17:24.512Z",
+      "updatedAt": "2025-08-03T18:17:24.512Z"
+    },
+    {
+      "address": "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1",
+      "label": "Sample Whale 2",
+      "addedAt": "2025-08-03T18:20:59.633Z",
+      "updatedAt": "2025-08-03T18:45:22.439Z"
+    },
+    {
+      "address": "DezXAZ8z7PnrnRJjz3wXBoRgixCa6xjnB7YaB1pPB263",
+      "label": "BONK Token",
+      "addedAt": "2025-08-03T18:35:09.661Z",
+      "updatedAt": "2025-08-03T18:35:09.661Z"
+    },
+    {
+      "address": "EKpQGSJtjMFqKZ1KQanSqYXRcF8fB8zEHYMkLdCmvj7",
+      "label": "WIF Token",
+      "addedAt": "2025-08-03T18:35:38.588Z",
+      "updatedAt": "2025-08-03T18:35:38.588Z"
+    },
+    {
+      "address": "JUPyiwrYJFskUPiHa7hkeR8VUtAeFoSYbKedZNsDvCN",
+      "label": "JUP Token",
+      "addedAt": "2025-08-03T18:35:45.049Z",
+      "updatedAt": "2025-08-03T18:35:45.049Z"
+    },
+    {
+      "address": "7xKXtg2CW87d97TXJSDpbD5jBkheTqA83TZRuJosgAsU",
+      "label": "SAMO Token",
+      "addedAt": "2025-08-03T18:35:50.010Z",
+      "updatedAt": "2025-08-03T18:35:50.010Z"
+    },
+    {
+      "address": "2ojv9BAiHUrvsm9gxDe7fJSzbNZSJcxZvf8dqmWGHG8S",
+      "label": "Known Whale",
+      "addedAt": "2025-08-03T18:35:54.530Z",
+      "updatedAt": "2025-08-03T18:35:54.530Z"
+    },
+    {
+      "address": "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9",
+      "label": "Active Wallet 1",
+      "addedAt": "2025-08-04T00:09:58.000Z",
+      "updatedAt": "2025-08-04T00:09:58.000Z"
+    },
+    {
+      "address": "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E",
+      "label": "Active Wallet 2",
+      "addedAt": "2025-08-04T00:10:04.000Z",
+      "updatedAt": "2025-08-04T00:10:04.000Z"
+    }
+  ],
+  "lastUpdated": "2025-08-03T18:45:22.439Z"
+}
