@@ -1,5 +1,9 @@
 # Solana Address Activity Monitor
 
+
+https://github.com/user-attachments/assets/ef680704-389c-45d9-86c5-5ca1eb68c358
+
+
 A real-time Node.js application that monitors Solana wallet addresses for any activity and logs detailed information to the console. The application tracks swaps, token purchases, transfers, and provides market data.
 
 ## Features
